@@ -6,9 +6,9 @@ color:
   saturation: 0.1772732341196388
   rhythmicContrast: 0.06252843490801752
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: creativemms

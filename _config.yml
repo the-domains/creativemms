@@ -1,0 +1,14 @@
+layout_spectrum: 0.5960008664987981
+typography_spectrum: 0.9260964021086693
+color:
+  brandStrength: 0.5022268549073488
+  lightness: 0.1465956640895456
+  saturation: 0.1772732341196388
+  rhythmicContrast: 0.06252843490801752
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: creativemms
